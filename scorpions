@@ -1,0 +1,24 @@
+MODELO COM VARIOS LINKS
+ 
+<item>
+<title>scooooorpions teste</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OpzMUBk9IBmTnFfeIJQtLju8yzx6X_6g/view$$1sname=[COLOR lime]FULLHD[/COLOR] - The Matrix</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= URL AQUI$$1sname=[COLOR lime]FULLHD[/COLOR] -  The Matrix Reloaded</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= URL AQUI$$1sname=[COLOR lime]FULLHD[/COLOR] -  The Matrix Revolutions</link>
+REDE CANAIS OU OUTRO
+<link>https://ok.ru/videoembed/2001436674726$$1sname=[COLOR lime]FULLHD[/COLOR] - The Matrix 4</link>
+<link>https://ok.ru/video/2001436674726$$1sname=[COLOR lime]FULLHD[/COLOR] - The Matrix 4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWFDGCINBSG0BQHsxQDJtSEDxx7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7u3pxc0K1wx32IleAkLv78MKgrw.jpg</fanart>
+<info>ddddé atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.</info>
+</item>
+ 
+MODELO GDRIVE DE APENAS UM LINK
+ 
+<item>
+<title>Cadáver - [COLOR yellow]2019[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OpzMUBk9IBmTnFfeIJQtLju8yzx6X_6g/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwf7FawiYVwnaP8S6ReLLziqWmj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gfbsN6StJ9geCuEmHWWGAlxAcj5.jpg</fanart>
+<info>Quando uma policial recém-saída da reabilitação fica responsável pelo turno da madrugada num necrotério de um hospital, ela começa a encarar acontecimentos bizarros e violentos causados por uma entidade maligna que habita um dos corpos.</info>
+</item>
