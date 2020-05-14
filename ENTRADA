@@ -1,29 +1,5 @@
-<channels>
-<channel>
-<name>[COLOR indigo]SEJAM BEM VINDOS - MASCATE SHOWS[/COLOR]</name>
-<thumbnail>https://ia601504.us.archive.org/1/items/icon_20200511/icon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - SHOWS MUSICAIS DOS MAIS VARIADOS ESTILOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/CATEGORIAS</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<script>
+<!--
+document.write(unescape("%3Cchannels%3E%0A%3Cchannel%3E%0A%3Cname%3E%5BCOLOR%20indigo%5DSEJAM%20BEM%20VINDOS%20-%20MASCATE%20SHOWS%5B/COLOR%5D%3C/name%3E%0A%3Cthumbnail%3Ehttps%3A//ia601504.us.archive.org/1/items/icon_20200511/icon.png%3C/thumbnail%3E%0A%3Cexternallink%3Ehttps%3A//%3C/externallink%3E%0A%3Cfanart%3Ehttps%3A//ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg%3C/fanart%3E%0A%3Cinfo%3E%0A%0A%0A%5BCOLOR%20deeppink%5D%7C%5B/COLOR%5D%20-%20SHOWS%20MUSICAIS%20DOS%20MAIS%20VARIADOS%20ESTILOS%20-%20%5BCOLOR%20deeppink%5D%7C%5B/COLOR%5D%3C/info%3E%0A%3C/channel%3E%0A%3C/channels%3E%0A%0A%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%0A%0A%3Cchannels%3E%0A%3Cchannel%3E%0A%3Cname%3EENTRE%20AQUI%5B/COLOR%5D%20%5BCOLOR%20orangered%5D%7C%7C%7C%5B/COLOR%5D%5BCOLOR%20deeppink%5D%7C%7C%7C%5B/COLOR%5D%5BCOLOR%20indigo%5D%7C%7C%7C%5B/COLOR%5D%3C/name%3E%0A%3Cthumbnail%3E%3C/thumbnail%3E%0A%3Cexternallink%3Ehttps%3A//raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/CATEGORIAS%3C/externallink%3E%0A%3Cfanart%3E%3C/fanart%3E%0A%3Cinfo%3E%0A%0A%0A%5BCOLOR%20deeppink%5D%7C%5B/COLOR%5D%20-%20ADICIONE%20AQUI%20A%20DESCRI%C7%C3O%20-%20%5BCOLOR%20deeppink%5D%7C%5B/COLOR%5D%3C/info%3E%0A%3C/channel%3E%0A%3C/channels%3E%0A%0A%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C"));
+//-->
+< /script>
