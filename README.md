@@ -1,2 +1,2 @@
 # MASCATESHOWS
-<a href="https://mascateshows.github.io/mascateshows.zip">repository.mascateshows.zip</a>
+<a href="https://mascateshows.github.io/MASCATESHOWS.zip">repository.MASCATESHOWS.zip</a>
