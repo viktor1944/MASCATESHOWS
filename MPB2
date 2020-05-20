@@ -59,6 +59,8 @@
 <info></info>
 <item>
   
+<label>This will be on the first line[CR]And this will be on the second line</label>
+  
 <title>Ivete Sangalo - MTV ao Vivo 2004</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FXfqaqe8rxW4z2gSmxGlH2GASSJggrmo/view?usp=sharing</link>
 <thumbnail>https://mascateshows.000webhostapp.com/ivetemtv.png</thumbnail>
