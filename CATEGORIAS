@@ -1,10 +1,18 @@
+<channels>
+<channel>
+<name>Clássica</name>
+<thumbnail>https://mascateshows.000webhostapp.com/classica.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/classica</externallink>
+<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
+<info>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>Pop Intrnacional</name>
-<thumbnail>https://i1.wp.com/papocultura.com.br/wp-content/uploads/2017/04/maxresdefault.jpg?resize=940%2C550&ssl=1</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/MP4</externallink>
-<fanart>https://i1.wp.com/papocultura.com.br/wp-content/uploads/2017/04/maxresdefault.jpg?resize=940%2C550&ssl=1</fanart>
+<name>Pop Internacional</name>
+<thumbnail>https://mascateshows.000webhostapp.com/popinter.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/popinternacional</externallink>
+<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
 <info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -12,9 +20,9 @@
 <channels>
 <channel>
 <name>Rock Internacional</name>
-<thumbnail>https://i.pinimg.com/originals/cb/a4/e4/cba4e4fc83b4b0d06aa630ed15085e91.jpg</thumbnail>
+<thumbnail>https://mascateshows.000webhostapp.com/rockinter.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/RockInternacional</externallink>
-<fanart>https://i.pinimg.com/originals/cb/a4/e4/cba4e4fc83b4b0d06aa630ed15085e91.jpg</fanart>
+<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
 <info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -22,8 +30,8 @@
 <channels>
 <channel>
 <name>Shows Nacionais</name>
-<thumbnail>https://i1.wp.com/papocultura.com.br/wp-content/uploads/2017/04/maxresdefault.jpg?resize=940%2C550&ssl=1</thumbnail>
+<thumbnail>https://mascateshows.000webhostapp.com/rockinter.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/mpb</externallink>
-<fanart>https://i1.wp.com/papocultura.com.br/wp-content/uploads/2017/04/maxresdefault.jpg?resize=940%2C550&ssl=1</fanart>
+<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
 <info>
 
