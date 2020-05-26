@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>Classica</name>
-<thumbnail>https://mascate2.000webhostapp.com/classica.jpg</thumbnail>
+<thumbnail>https://mascate2.000webhostapp.com/classic.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/classica</externallink>
 <fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
 
@@ -30,52 +30,4 @@
 <thumbnail>https://mascate2.000webhostapp.com/rockinter.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/RockInternacional</externallink>
 <fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel><channels>
-<channel>
-<name>Classica</name>
-<thumbnail>https://mascate2.000webhostapp.com/classica.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/classica</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>Outros Estilos</name>
-<thumbnail>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/OutrosEstilos</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>Pop Internacional</name>
-<thumbnail>https://mascate2.000webhostapp.com/popinter.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/popinternacional</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>Rock Internacional</name>
-<thumbnail>https://mascate2.000webhostapp.com/rockinter.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/mascate2/master/RockInternacional</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>Shows Nacionais</name>
-<thumbnail>https://mascateshows.000webhostapp.com/rockinter.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viktor1944/MASCATESHOWS/master/mpb</externallink>
-<fanart>https://ia601504.us.archive.org/1/items/icon_20200511/fanart.jpg</fanart>
-
 
